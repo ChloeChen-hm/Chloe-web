@@ -1,0 +1,54 @@
+h1 {
+    color: #DF6277;
+    font-family: cursive;
+    font-size: 80px;
+    text-align: center;
+    line-height: 80px
+}
+
+h2 {
+    color: #CB2944;
+    font-family: fantasy;
+    font-size: 40px;
+}
+
+.not {
+    color: #ECA2AE;
+    font-size: 20px
+}
+
+div {
+    font-family: monaco;
+}
+.about {
+    margin: 20px;
+    border: 5px;
+    padding: 20px;
+    background-color: #FFEDFA;
+    border-radius: 10px;
+}
+
+.hobby {
+    margin: 20px;
+    border: 5px;
+    padding: 20px;
+    background-color: #F9E1E5;
+    border-radius: 10px;
+}
+
+.web{
+    margin: 20px;
+    border: 5px;
+    padding: 20px;
+    background-color:#FFEDFA;
+    border-radius: 10px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+a {
+    color:darkgrey;
+}
